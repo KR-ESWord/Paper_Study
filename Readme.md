@@ -39,15 +39,20 @@
 - Decision_Tree
 - Catboost
 
-### Reinforce Learning
-- DQN
-
 ### Object Detection
 - Faster_R_CNN(2015)
+- DETR
 - RetinaNet
 - YoLo_v3(2018)
 - YoLo_v7
-- DETR
 
 ### Quantum Computing
 - Quantum Neural Network
+
+### Reinforce Learning
+- DQN
+- Double DQN
+
+### Segmentation
+- SegNet
+- U-Net
